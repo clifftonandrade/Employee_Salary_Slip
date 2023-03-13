@@ -22,6 +22,8 @@ public class Salary {
 		this.da = 0.73 *  basicSalary;
 		this.grossSalary = basicSalary + da + hra;
 		this.incomeTax = 0.3 * grossSalary;	
+		System.out.println("Hello I am a student from damodar college -Crimson");
+		System.out.println("I do'nt like to code but i will be a coder in future");
 	}
 	/**
 	 * 
